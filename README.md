@@ -1,6 +1,8 @@
 # Pathfinding Visualizer Project 
 
-This repository contains the code of Pathfinding Visualizer. This application built for pathfinding algorithms, and visualize them in action and gives shorest path. You can enjoy this visualization by access it here (use Google Chrome): 
+This repository contains the code of Pathfinding Visualizer. This application built for pathfinding algorithms, and visualize them in action and gives shorest path.
+
+You can enjoy this visualization by access it here (use Google Chrome): 
 https://anjalikumawat2002.github.io/PathFinding-Visualizer/
 
 ## Algorithms
