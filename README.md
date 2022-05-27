@@ -1,6 +1,8 @@
 # Pathfinding Visualizer Project 
 
+
 This repository contains the code of Pathfinding Visualizer. This application built for pathfinding algorithms, and visualize them in action and gives shorest path.
+
 
 You can enjoy this visualization by access it here (use Google Chrome): 
 https://anjalikumawat2002.github.io/PathFinding-Visualizer/
@@ -24,6 +26,8 @@ This application supports the following algorithms:
 **Breath-first Search** (unweighted): a great algorithm; guarantees the shortest path
 
 **Depth-first Search** (unweighted): a very bad algorithm for pathfinding; does not guarantee the shortest path
+
+
 
 
 This project is used to find shortest path using different algorithms and visualize them in action.
